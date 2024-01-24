@@ -1,0 +1,13 @@
+:root {
+    /* Font */
+    --main-font: 'DM Sans', sans-serif;
+
+    /* Colors */
+    --bg-black: #0a0a0a;
+    --bg-gray: #131313;
+    --bg-light-gray: #242424;
+    --font-white: #b3b3b3;
+    --bg-gradient: linear-gradient(to right, #bb31a4, #8968c5, #2d9bce);
+    --shadow: 0 0 15px rgba(66, 66, 66, 0.616);
+    --bg-arrow-color: rgba(0,0,0,7);
+}
